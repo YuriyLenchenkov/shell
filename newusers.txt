@@ -1,0 +1,4 @@
+ivan:ivan123::::/nonexistent:/usr/sbin/nologin
+aleksei:aleks123::::/nonexistent:/usr/sbin/nologin
+pavel:pavel123::::/nonexistent:/usr/sbin/nologin
+ftp-admin:ftp123::::/home/ftp-admin:/bin/bash
