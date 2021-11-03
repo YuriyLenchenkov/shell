@@ -1,0 +1,1 @@
+for i in echo $(grep -Po '([0-9]{1,3}\.){3}[0-9]{1,3}' /etc/hosts); do echo "$i"dfgdfg; done
